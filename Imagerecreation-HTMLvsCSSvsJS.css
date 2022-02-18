@@ -1,0 +1,22 @@
+body {
+    color: white;
+    font-size: 17px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background: black;
+  }
+  #bg {
+    background: grey;
+  }
+  #p1 {
+    text-align: center;
+    font-style: bold;
+    font-size: 50px !important;
+  }
+  #htmlimg {
+    width: 25%;
+    height: 70px;
+  }
+  .aligndiv {
+    right: 5%;
+  }
